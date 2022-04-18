@@ -20,6 +20,9 @@ The database for the website is created when the Spring Boot is run. Various tab
 
 These tables are populated with values using the "eecs4413.py" file listed in the project documents.
 
+# Running the Curl Commands
+'Curl Commands.txt' file has a few curl commands that can be run on the terminal of the device to test the backend of our project.
+
 # Running the project
 In order to run on AWS, follow these instruction :-
 
