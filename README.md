@@ -15,6 +15,11 @@ Classic-Optic uses Java 1.8, Spring Boot version 4, AWS ec2 for Linux machine, A
 
 The project uses jsp files, css documents, along with javascript files and java classes to program the website.
 
+# Database Creation
+The database for the website is created when the Spring Boot is run. Various tables are created accordingly.
+
+These tables are populated with values using the "eecs4413" file listed in the project documents.
+
 # Running the project
 In order to run on AWS, follow these instruction :-
 
