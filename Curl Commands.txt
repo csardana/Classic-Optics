@@ -1,0 +1,7 @@
+curl -X GET 'http://ec2-34-203-249-52.compute-1.amazonaws.com:8080/'
+curl -X GET 'http://ec2-34-203-249-52.compute-1.amazonaws.com:8080/login'
+curl -X POST 'http://ec2-34-203-249-52.compute-1.amazonaws.com:8080/login?userid=1&pwd=potter123'
+curl -X GET 'http://ec2-34-203-249-52.compute-1.amazonaws.com:8080/cats/1'
+curl -X GET 'http://ec2-34-203-249-52.compute-1.amazonaws.com:8080/cats/2'
+curl -X GET 'http://ec2-34-203-249-52.compute-1.amazonaws.com:8080/addtocart/1'
+curl -X POST 'http://ec2-34-203-249-52.compute-1.amazonaws.com:8080/addtocart/2'
