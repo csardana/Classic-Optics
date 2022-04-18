@@ -18,7 +18,7 @@ The project uses jsp files, css documents, along with javascript files and java 
 # Database Creation
 The database for the website is created when the Spring Boot is run. Various tables are created accordingly.
 
-These tables are populated with values using the "eecs4413" file listed in the project documents.
+These tables are populated with values using the "eecs4413.py" file listed in the project documents.
 
 # Running the project
 In order to run on AWS, follow these instruction :-
