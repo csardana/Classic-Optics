@@ -23,8 +23,8 @@ These tables are populated with values using the "eecs4413" file listed in the p
 # Running the project
 In order to run on AWS, follow these instruction :-
 
--Login into EC2 instance via ssh connect 
--Go to folder classic-optics/GiftShop via command (cd classic-optics/GiftShop)
--Run it via the command (mvn springboot:run &)
--Run the command (disown %1)
--See the website running on Public IPV4 url
+-Login into EC2 instance via ssh connect<br />
+-Go to folder classic-optics/GiftShop via command (cd classic-optics/GiftShop)<br />
+-Run it via the command (mvn springboot:run &)<br />
+-Run the command (disown %1)<br />
+-See the website running on Public IPV4 url<br />
